@@ -1,0 +1,10 @@
+{
+  "name": "yarn-scoped-offline-bug",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@kadira/storybook": "^2.35.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
